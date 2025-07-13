@@ -1,0 +1,44 @@
+1. Row ID  
+2. Order ID  
+3. Order Date  
+4. Ship Date  
+5. Customer Name  
+6. Segment  
+7. Country  
+8. City  
+9. State  
+10. Postal Code  
+11. Region  
+12. Product ID  
+13. Category  
+14. Sub-Category  
+15. Product Name  
+16. Sales  
+17. Quantity  
+18. Discount  
+19. Profit
+
+📋 Preprocessing Summary – Week 1
+
+✅ Column Listing:
+All columns reviewed and documented for structure understanding.
+
+✅ Missing Values:
+No missing (null) values found in dataset.
+
+✅ Duplicates:
+Duplicate rows were checked using Excel’s Remove Duplicates tool.
+Result: No duplicates present in cleaned version.
+
+✅ Date Formatting:
+Order Date and Ship Date columns were converted to dd-mm-yyyy format using formula method.
+
+✅ Categorical Fields:
+Category, Sub-Category, Segment, and Region fields were standardized using PROPER() function for proper capitalization.
+
+📁 Final cleaned file: cleaned_data_v1.csv  
+📂 Uploaded to: /data/  
+📄 Checklist file uploaded to: /docs/
+
+Verified by: Suhani Gajre (Team Lead)  
+Date: [Today's Date]
