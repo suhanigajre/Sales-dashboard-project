@@ -25,7 +25,7 @@ This project aims to:
 
 ## 📆 Week 1 Goals
 - [x] Upload and organize dataset  
-- [ ] Clean and preprocess the data (missing values, formatting, standardizing)  
+- [x] Clean and preprocess the data (missing values, formatting, standardizing) ✅ `cleaned_data_v1.csv` uploaded  
 - [ ] Explore data using PivotTables  
 - [ ] Document cleaning steps and findings  
 
@@ -48,4 +48,5 @@ This project aims to:
 
 ## 🚀 Status
 ✅ Repo structure complete  
-🔄 Week 1 in progress (Cleaning & PivotTables)
+✅ Cleaned dataset uploaded and verified (`/data/cleaned_data_v1.csv`)  
+🔄 Week 1 partially completed (PivotTables + docs pending)
