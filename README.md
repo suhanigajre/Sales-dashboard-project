@@ -23,12 +23,19 @@ This project aims to:
 - Visualize insights using Excel PivotTables and Power BI dashboards
 - Recommend data-driven improvements to increase business profitability
 
-## 📆 Week 1 Goals
-- [x] Upload and organize dataset  
-- [x] Clean and preprocess the data (missing values, formatting, standardizing) ✅ `cleaned_data_v1.csv` uploaded  
-- [ ] Explore data using PivotTables  
-- [ ] Document cleaning steps and findings  
-
+## 📆 Week 1: Data Cleaning & Pivot Table Analysis ✅
+### ✅ Completed Tasks:
+- ✔ Uploaded and verified dataset  
+- ✔ Cleaned and preprocessed data (`/data/cleaned_data_v1.csv`)  
+- ✔ Handled missing values, standardized text, formatted dates  
+- ✔ Created additional columns: Month, Year, Quarter  
+- ✔ Built PivotTables:
+  - Total Sales by Month  
+  - Sales by Category and Region  
+  - Profit vs Sales (Order-level aggregation)  
+- ✔ Saved all PivotTables in `/excel/Sales_Pivot_Tables.xlsx`
+- ✔ Documented cleaning steps in `/docs/week1_cleaning_summary.md
+- 
 ## 🧰 Tools & Technologies
 - Excel (data cleaning, PivotTables)
 - Power BI (dashboard creation in later weeks)
