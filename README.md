@@ -56,4 +56,4 @@ This project aims to:
 ## 🚀 Status
 ✅ Repo structure complete  
 ✅ Cleaned dataset uploaded and verified (`/data/cleaned_data_v1.csv`)  
-🔄 Week 1 partially completed (PivotTables + docs pending)
+✅ Week 1  completed 
