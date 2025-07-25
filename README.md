@@ -37,7 +37,9 @@ Visualize insights using Excel PivotTables and Power BI dashboards
 Recommend data-driven improvements to increase business profitability
 
 📆 Week-wise Progress
+
 ✅ Week 1: Data Cleaning & Pivot Table Analysis
+
 ✔ Uploaded and verified dataset
 
 ✔ Cleaned and preprocessed data (/data/cleaned_data_v2.csv)
@@ -59,6 +61,7 @@ Profit vs Sales (Order-level aggregation)
 ✔ Documented cleaning in /docs/week1_cleaning_summary.md
 
 ✅ Week 2: KPI Identification & Excel Visualizations
+
 ✔ Created KPI Table (Total Sales, Profit, Orders, Top Region/Category)
 
 ✔ Built PivotTables:
@@ -82,6 +85,7 @@ Loss-making items (red)
 ✔ Saved visuals in /excel/week2_charts_updated.xlsx
 
 ✅ Week 3: Power BI Dashboard Creation
+
 ✔ Imported cleaned Excel dataset into Power BI
 
 ✔ Created:
@@ -101,6 +105,7 @@ KPI Cards: Total Sales, Profit, Orders
 ✔ Captured screenshots in /images
 
 ✅ Week 4: Documentation & Final Report
+
 ✔ Finalized Week 2 Excel file and Power BI visuals
 
 ✔ Wrote complete summary in /docs/week4_summary.docx
