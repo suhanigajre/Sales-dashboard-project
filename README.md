@@ -1,16 +1,5 @@
-📊 Sales Data Analysis and Dashboard (Internship Project)
+📊 Sales Data Analysis and Dashboard 
 
-👥 Team Members
-
-Suhani Gajre (Team Lead)
-
-Rohit Salunkhe
-
-Vivek Sharma
-
-Sangram Patil
-
-Jeevan Manda
 
 📁 Dataset: Sample Superstore Sales
 A real-world sales dataset containing:
